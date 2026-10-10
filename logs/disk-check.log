@@ -1,0 +1,6 @@
+2026-10-10 02:20:25 - Disk usage 62% is below threshold 90% for /
+2026-10-10 02:20:39 - Disk usage 62% reached/exceeded threshold 1% for /
+2026-10-10 02:21:13 - Threshold out of range: 0
+2026-10-10 02:21:41 - Threshold out of range: 101
+2026-10-10 02:22:03 - Invalid threshold: abc
+2026-10-10 02:22:19 - Disk usage 66% is below threshold 100% for /
